@@ -14,4 +14,6 @@ https://summit.hexacta.com/data-week-2022/
 
 https://media.giphy.com/media/l2YWweM2ueW6hHqxy/giphy.gif
 
+<img src="https://media.giphy.com/media/l2YWweM2ueW6hHqxy/giphy.gif" width="300px">
+
 
