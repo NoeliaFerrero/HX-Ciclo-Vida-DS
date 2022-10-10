@@ -12,3 +12,6 @@ https://summit.hexacta.com/data-week-2022/
 
 <iframe src="https://giphy.com/embed/l2YWweM2ueW6hHqxy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor-mean-girls-movie-l2YWweM2ueW6hHqxy">via GIPHY</a></p>
 
+https://media.giphy.com/media/l2YWweM2ueW6hHqxy/giphy.gif
+
+
